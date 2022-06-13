@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">Semana16-retrofit</string>
+
+    <!--TEXTO DEL MENU-->
+    <string name="opcion1">Integrantes</string>
+    <string name="opcion2">Información</string>
+    <string name="opcion3">Versión</string>
+
+
+    <!--TEXTO DEL Integrantes-->
+    <string name="titleIntegrantes">Integrantes del proyecto</string>
+    <string name="integrante_1">Alan Derek Henríquez Monterrosa</string>
+    <string name="code_1">USIS003421</string>
+    <string name="integrante_2">Angel Hernesto Aparicio Martinez</string>
+    <string name="code_2">USIS050021</string>
+    <string name="integrante_3">Kerin Francisco Melendez Mejia</string>
+    <string name="code_3">USIS045421</string>
+
+
+    <!--TEXTO DEL Informacion-->
+    <string name="titleInformacion">Informacion del Proyecto</string>
+    <string name="contentInformacion">Este proyecto presenta en su pantalla de inicio un menu con las activities correspondientes a trabajar, obteniendo mediante el recurso Retrofit los datos desde una base de datos externa.</string>
+    <string name="contentInformacion1">Tambien dejar en claro que este proyecto es la continuación del antes trabajado en la semana 14</string>
+    <string name="contentInformacion2">Existe un pequeño problema respecto al boton que te redirige a los usuarios. Este si, recive la informacion, pero existe el problema que se bloquea desde el momento en que encuentra un objeto llamado (addres) y (geo)</string>
+
+    <!--TEXTO DEL Version-->
+    <string name="titleVersion">Version: 1.2</string>
+
+
+    <!--TEXTO DEL MainActivity-->
+    <string name="footerTxMain">Los botones que se encuentran arriba te redirigiran a una activity con la obtencion de los datos correspondientes utilizando retrofit</string>
+    <string name="btpost">POSTS</string>
+    <string name="btcomments">COMMENTS</string>
+    <string name="btalbums">ALBUMS</string>
+    <string name="btusers">USERS</string>
+
+</resources>
